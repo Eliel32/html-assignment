@@ -1,0 +1,44 @@
+
+h1,h2,h3,h4,h5 {
+background-color:#F0F0F0;
+font-family: "Lucida Sans Unicode", Helvetica, Arial, sans-serif;
+color:#A4A400;
+text-decoration: underline;
+ }
+ a {
+ color:#A4A400;
+ }
+h1 {
+font-size: 22pt;
+font-weight: bold;
+text-align: center;
+ }
+h2,h3,h4,h5 {
+font-size:18pt;
+font-weight:normal;
+ }
+body {
+background-color: white;
+font-color: #404040
+font-size:11pt;
+font-family:Georgia,Garamond,sans-serif;
+background-image:url("https://cloud.githubusercontent.com/assets/25987128/23284941/234cddb0-f9fc-11e6-9786-afa47a0e5da3.jpg");
+ }
+ul {
+list-style-image: url("https://cloud.githubusercontent.com/assets/25987128/23285947/4ce2caf8-fa02-11e6-8b26-d4fff809ac71.gif");
+ }
+blockquote {
+	background-color: #FFFFA8;
+	font-style: italic;
+}
+.first {
+     list-style-image: none; 
+     list-style-type: none;
+}
+abbr {
+	text-decoration: underline;
+}
+span {
+text-decoration: line-through;
+}
+
