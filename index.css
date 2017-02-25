@@ -1,0 +1,24 @@
+
+h1,caption {
+font-family:Cursive;
+font-size:22pt;
+font-style:oblique;
+color:white;
+text-align:center;}
+body { 
+ background-image:url("http://img01.deviantart.net/62dc/i/2014/252/0/6/a_door_into_a_new_world_by_lenaflynn-d7ykbd7.jpg"); 
+ background-repeat: no-repeat;
+ background-size: cover;
+  }
+#change-image{width:250px;
+  border-radius:50%}
+.well{
+  background-color: rgba(245, 245, 245, 0.6)
+  }
+  pre{color:#d99f0d}
+  p,em,td,a {color: #d99f0d;
+  text-align: center;
+  }
+caption {
+text-align: center;
+}
